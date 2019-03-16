@@ -1,0 +1,29 @@
+commit 9e59a802ebff92949da933e3d84a65c71c566cd3
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Sat Nov 3 22:49:35 2018 -0400
+
+    final revisions, program doesnt seem to work with "rand" mazes
+
+commit a4affd2dc54a576d76a446a583e281f7adfb5e2d
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Sat Nov 3 08:14:41 2018 -0400
+
+    popLast function created for backtracking and creating path
+
+commit b853f3f39517a50c4436410dd80c02eaf529a0f8
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Fri Nov 2 15:53:44 2018 -0400
+
+    bfs function refined, backtracking function for path created
+
+commit d0d26e305e14ab52036c7edf765b70a0afaafc22
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Thu Nov 1 14:06:31 2018 -0400
+
+    bfs method and additional functionalities added
+
+commit 68e41c207e8c1cea0d5b3b097e6c8c62b767b63e
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Wed Oct 31 13:17:17 2018 -0400
+
+    main and reading functions created
